@@ -1,4 +1,4 @@
-# -News-Sentiment-Analyzer-for-Stock-Market-Prediction
+# News-Sentiment-Analyzer-for-Stock-Market-Prediction
 
 
 This project analyzes the sentiment of financial news headlines using **FinBERT** embeddings and an **XGBoost** classifier.  
